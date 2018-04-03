@@ -1,2 +1,2 @@
 # SBAppAOP
-Simple example Aspect in spring boot application
+Simple example of Aspect in spring boot application
